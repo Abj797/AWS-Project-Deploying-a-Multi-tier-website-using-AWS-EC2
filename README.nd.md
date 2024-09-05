@@ -77,4 +77,13 @@ c) Create Auto-Scaling Group using launch template and set desired capacity and 
 
 ## Screenshots
 
+![AWS Project 1 step 8](https://github.com/user-attachments/assets/220b80de-5229-4f33-a477-e4f744472c2e)
+
+![AWS Project 1 step 10](https://github.com/user-attachments/assets/b439aacd-c485-4f67-9435-a306fbb40790)
+
+![AWS Project 1 step 11](https://github.com/user-attachments/assets/51dabbe1-2f5f-4526-963b-1813c8b4b6a4)
+
+
+
+
 
