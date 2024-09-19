@@ -1,4 +1,3 @@
-
 # Project Title
 
 ### AWS High Availability PHP Website with Auto Scaling and RDS
@@ -67,7 +66,7 @@ sudo mysql -h <RDS Endpoint> - username - password
 
 d) Run the command ‘sudo apt nano’ and enter your database details like your RDS Endpoint, Username, database name and password.
  
-### Step 3: Connfigure Auto-Scaling Group and Loadbalancer (Loadbalancer is optional)
+### Step 3: Configure Auto-Scaling Group and Loadbalancer (Loadbalancer is optional)
 
 a) Create ‘AMI’ for the instance. 
 
